@@ -15,4 +15,4 @@ Each file is provided as a plain text file within the repository.
 - **Simple List**
 - **Taskpaper**
 
-Additional meta data is helf in a JSON file.
+Additional meta data is held in a JSON file.
