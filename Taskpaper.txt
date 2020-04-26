@@ -1,0 +1,22 @@
+Project Alpha:
+    - This is a task in the Alpha project
+    - This is another task in the Alpha project
+    Project Alpha Prime:
+        - This task is in the Alpha Prime sub-project of the alpha project
+            - This is a sub-task of a task in the sub-project
+        - This is a priority one task in the alha prime project @priority(1)
+    - This is a completed task in the alpha project @done(2019-01-01 12:34)
+    This is a note for the alpha project
+
+- This task is not in any project
+- This task is a completed task tagged with two colours @red @done(2019-06-02 11:57) @blue
+- This is a task with associated notes and is priority two @priority(2)
+    This is a short note for the task
+    This is another short note for the task
+This note is not associated with any tak or project
+
+Project Beta:
+    - This task recurs on the second of each month at 16:00 @recurring(this month 2 4pm)
+    - This task is due today @red @due(today) @priority(1)
+    - This task is due tomorrow @blue @due(tomorrow)
+    - This task is due at the start of 2030 @due(2030-01-01)

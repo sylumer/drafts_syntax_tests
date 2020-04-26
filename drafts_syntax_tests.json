@@ -1,0 +1,32 @@
+{
+	"syntaxes" : ["GitHub Markdown", "JavaScript", "Markdown", "MultiMarkdown" , "Plain Text" , "Simple List" , "Taskpaper" ],
+	"GitHub Markdown" : 
+		{
+			"extension" : "md"
+		},
+	"JavaScript" : 
+		{
+			"extension" : "js"
+		},
+	"Markdown" : 
+		{
+			"extension" : "md"
+		},
+	"MultiMarkdown" : 
+		{
+			"extension" : "mmd"
+		},
+	"Plain Text" : 
+		{
+			"extension" : "txt"
+		},
+	"Simple List" : 
+		{
+			"extension" : "txt"
+		},
+	"Taskpaper" : 
+		{
+			"extension" : "taskpaper"
+		},
+	"extension" : "txt"
+}

@@ -1,0 +1,562 @@
+async function foo() {}
+const foo = async function () {};
+let obj = { async foo() {} }
+const foo = async () => {};
+
+const xs = [];
+
+describe('Foo', () => {
+
+  const ys = [];
+
+  context('GET /foo/:fooId', () => {
+
+    const zs = [];
+
+    it('should', async () => {
+      const ws =[];
+    });
+  
+  
+  });
+
+});
+
+class Foo {
+  async Method1() {}
+}
+
+BigInt.asIntN(64, max + 1n);
+
+
+class Foo {
+  constructor() {
+    return '*/*';
+  }
+
+  method1 () {
+    return '*/*';
+  }
+}
+
+class Bar extends Foo {
+  constructor() {
+    return '*/*';
+  }
+
+  method1 () {
+    return '*/*';
+  }
+
+  method2 () {
+    return '*/*';
+  }
+}
+
+var Con = function () {
+  return function () {};
+};
+
+class Car extends new Con() {
+  method1 () {}
+}
+
+var foo = foo.bar ? `${zzz}` : `${xd}` ;
+var Foobar = {
+  foo: foo.bar ? `${zzz}` : `${xd}` ;
+}
+var Foobar = class {
+  constructor () {
+    return '*/*';
+  }
+  fetch () {
+    return 1;
+  }
+  method1 () {
+    return '*/*';
+  }
+  async method2 () {
+  }
+}
+var Foobar2 = class {
+  foo = foo.bar ? `${zzz}` : `${xd}` ;
+  constructor () {
+    return '*/*';
+  }
+  fetch () {
+    return 1;
+  }
+  method1 () {
+    return '*/*';
+  }
+  async method2 () {
+  }
+}
+it('[WORD] a b c ...', () => {
+    let a = 2;
+    expect(a).to.equal(2);
+});
+
+describe('[foobartest]', () => {
+    describe('test a route', () => {
+        it('[CLIENT] should work', () => {
+            let data = buildValidData();
+            return data.save()
+                .then(() => {
+                    return request('put', `${data.pid}`)
+                        .expect(200)
+                        .expect(function (res) {
+                            expect(res.body)
+                                .to.be.an('object');
+                        })
+                });
+        });
+    })
+});
+
+/*
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis justo
+  convallis, dictum erat sed, pellentesque felis. Proin eget lacinia mi, quis
+  maximus lectus. Cras a orci nunc. Nunc in dolor accumsan, lobortis nunc eget,
+  consectetur massa. Curabitur quis nulla orci. Pellentesque mauris mi, sodales a
+  nisl eu, laoreet maximus dui. Cras pretium molestie varius. In et lorem et diam
+  lobortis euismod.
+
+  Nullam hendrerit massa a bibendum tempor. Sed dictum tortor at auctor commodo.
+  In elit sem, bibendum eget dignissim et, posuere id erat. Phasellus tempor in
+  nulla ac finibus. Nullam hendrerit in urna sed tempor. Duis sapien dolor,
+  consequat efficitur efficitur sed, scelerisque ac ante. Quisque id erat at ipsum
+  ornare aliquam in egestas dui. Nam vestibulum diam eget eleifend sollicitudin.
+  Morbi eget suscipit justo, a finibus sem. Aenean consequat lectus ut pretium
+  cursus. Ut eget eros tellus. Phasellus facilisis eleifend mollis.  Aliquam
+  viverra ipsum eu ipsum tempor, sed faucibus eros tempus. Duis pharetra ac odio
+  nec porttitor. Nam cursus luctus diam sit amet pharetra. Maecenas dapibus
+  ullamcorper tristique. Sed in porttitor mi. Suspendisse nisl metus, scelerisque
+  ac odio quis, egestas volutpat augue. Donec semper accumsan est a ultrices.
+  Donec eu auctor leo. Morbi eros massa, hendrerit vitae vulputate in, elementum
+  quis metus. Vestibulum velit quam, luctus vel purus a, viverra suscipit ligula.
+  Nullam quis molestie mauris. Duis nunc eros, pellentesque non bibendum sit
+  amet, imperdiet mattis dui. Curabitur et erat vestibulum nunc efficitur finibus
+  ut pharetra urna.
+
+  Mauris luctus sodales elit in ornare. Mauris cursus ipsum metus, et eleifend ex
+  luctus ut. Praesent finibus odio congue leo tincidunt, id tincidunt eros luctus.
+  Cras sit amet erat eu justo vehicula facilisis. Praesent vel augue sit amet
+  dui semper facilisis non vitae augue. Donec non venenatis risus. Nam auctor eros
+  et leo convallis, ac ullamcorper mi egestas. Nunc efficitur pulvinar purus, et
+  fermentum nisl fermentum non. Nam nec lorem feugiat, laoreet arcu ut, posuere
+  quam.  Nam ullamcorper hendrerit quam cursus iaculis. Phasellus interdum augue
+  et efficitur tincidunt. Praesent consectetur leo sit amet felis consectetur,
+  vitae cursus sapien suscipit. Phasellus sit amet libero dui. Nulla faucibus nunc
+  justo, sit amet congue libero egestas id. Duis vehicula, odio vitae maximus
+  luctus, sapien justo tincidunt elit, suscipit dictum elit orci non elit. Quisque
+  eu sapien convallis, euismod lectus sit amet, auctor neque. Curabitur rutrum
+  porta nulla, commodo laoreet ante laoreet vel. Proin fringilla dolor mi, in
+  sagittis quam iaculis eget. Cum sociis natoque penatibus et magnis dis
+  parturient montes, nascetur ridiculus mus. Aenean vitae tortor nibh. Donec
+  maximus tincidunt ligula, euismod semper justo lacinia quis. Maecenas facilisis
+  pretium lacus at porttitor. 
+*/
+
+function validator() {
+  if (!this.validate()) return // this comment doesn't highlight
+  if (!this.validate()) return
+  // this comment doesn't highlight
+
+  if (!this.validate()) return false
+  // this comment does highlight
+
+  if (!this.validate()) {
+    return
+  }
+  // this comment does highlight
+}
+
+
+function p(a, b = (function () { return 100 }())) {}
+
+function p({a, b = (function () { return 100 }())}) {}
+
+function p({
+  a, 
+  b = (function () { return 100 }())}) {
+}
+
+function p([a, b, c, ...d])
+
+// Here it works
+import * as lib from 'lib';
+import Lib from 'lib'; // Here it does not
+import { name, setName } from "example.js";
+import { add as sum } from "example.js";
+import { sum, multiply, magicNumber } from "example.js";
+
+var calculatorMixin = Base => class extends Base {
+  calc() { }
+};
+
+var randomizerMixin = Base => class extends Base {
+  randomize() { }
+};
+
+class Foo { }
+class Bar extends calculatorMixin(randomizerMixin(Foo)) { }
+
+var C = function () {
+  if (new.target) {
+  }
+};
+
+
+const CONSTANT = 'CONSTANT';
+
+const obj = {
+
+  CONSTAN (a) {
+    return a * 3;
+  },
+
+  [ CONSTANT ](a) {
+    return a * 3;
+  },
+
+  [ 'a' ]: function () {
+    return 42;
+  },
+
+  "string" () {
+    return '*/*';
+  },
+
+  123 () {
+    return '*/*';
+  }
+
+};
+
+const test = {
+  'test'() {
+    what('ACCEPTS */*...')
+
+    const ohno = 'what'
+  }
+}
+var obj = {
+  disabled,
+  onChange: live && (this.filter ?? live)
+};
+var a = 0;
+
+a + 1;
+a - 1
+a+1;
+a-1;
+a++;
+a--;
+a/1;
+a%1;
+a*1;
+a|1;
+a&1;
+
+a>>>=1;
+a>>>1;
+a>>1;
+a>=1;
+a>1;
+
+a&&1;
+a||1;
+
+a >= 1;
+a <= 1;
+
+a == 1;
+a != 1;
+a !== 1;
+
+a |= 1;
+a &= 1;
+a /= 1;
+a *= 1;
+a %= 1;
+
+a ? 1 : 2;
+let newScore = person.score
+  |> double
+  |> _ => add(7, _)
+  |> _ => boundScore(0, 100, _);
+return {
+  x: Promise.all(() => {
+    return new Class({})
+      .fetch({foo: bar})
+      .then(res => {
+        let x
+      })
+      .then((res) => {
+        let x
+      })
+  }
+}
+if (Reflect.defineProperty(obj, name, desc)) {
+  // success
+} else {
+  // failure
+}
+
+Reflect.apply(f, obj, args)
+
+var obj = Reflect.construct(F, args)
+
+var loggedObj = new Proxy(obj, {
+  get: function(target, name) {
+    console.log("get", target, name);
+    return Reflect.get(target, name);
+  }
+});
+
+Reflect.getPrototypeOf(obj)
+
+Reflect.setPrototypeOf(obj, newProto)
+var complex = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+
+function () {
+  var re = /a/;
+
+  if (!/b/) {}
+  if (!!/b/) {}
+  if (!!!/b/) {}
+  if (!!!!/b/) {}
+
+  if (+/b/) {}
+  if (-/b/) {}
+ 
+  if (+ /b/) {}
+  if (- /b/) {}
+ 
+
+  return /c/;
+
+}
+
+var a = 1;
+a++;
+++a;
+a--;
+--a;
+
+a += 1;
+a -= 1;
+
+a = a + 100;
+a = a + /* comment */ 100;
+
+class Foo {
+  constructor(args) {
+    this.foo = args.replace(/\/$/, "");
+  }
+  
+  bar(arg) {
+    if (arg == 0) {}
+  }
+}
+
+
+Template.testing.helpers({
+  helper1 () {
+  
+    let test1 = hello.world()
+    // xd
+  
+  }
+})
+
+
+console.log('hello')
+console.log('hello')
+console.log('hello')
+var a = 1
+var b = 2
+var c = 3
+
+function foo(a, b) {
+  console.log('hello')
+  console.log('hello')
+  console.log('hello')
+  var a = 1
+  var b=2
+  var c=3
+}
+
+function bar() {
+  var a = 1
+  var b = 2
+  var c = 3
+  console.log('hello')
+  console.log('hello')
+  console.log('hello')
+}
+
+console.log('hello')
+console.log('hello')
+console.log('hello')
+var a = 1
+var b = 2
+var c = 3
+
+a++
+
+var d = 4;
+
+a++
+
+if (a) {}
+
+switch (Animal) {
+  case 'Animal': {
+    const meat = 'what'
+    break
+  }
+}
+
+// No Quoted Case + No Block is OK
+
+switch (`Animal`) {
+  case Animal:
+    const meat = 'what'
+    break
+}
+
+// No Quoted Case + Block is Not OK
+
+switch (Animal) {
+  case Animal: 
+  case Animal:
+  case Animal:
+  case Animal: {
+    const meat = 'what'
+    break
+  }
+}
+
+switch (Animal) {
+  case Ani.mal: {
+    const thing = 'what'
+    break
+  }
+}
+
+switch (Animal) {
+  case Animal(): {
+    const thing = 'what'
+    break
+  }
+}
+
+switch (Animal) {
+  case (Animal): {
+    const thing = 'what'
+    break
+  }
+  default:
+    1;
+}
+
+switch ($()) {
+  case 'a': {
+  }
+}
+
+var str1 = `abcde`;
+
+var str2 = `abcde${str1}abcde`;
+
+var str3 = `abcde${(function () { return 'abc'; }())}abcde`;
+
+var str4 = `abcde${({prop1: 1, prop2: 'p'})['prop1']}abcde`;
+
+var str5 = `abcde${({prop1: 1, prop2: `edcba${1}ebcda`})['prop1']}abcde`;
+
+var str6 = `abcde${({
+  prop1: 1, 
+  prop2: `edcba${1}ebcda`
+})['prop1']}abcde`;
+
+var str7 = `abcde${(function () { 
+  return `edcba${str1 + `zz${1}zz`}edcba`; 
+}())}abcde`;
+
+var str8 = tag1`abcd ${a}`
+
+var str9 = `s${`<tag attr=${exp}>${exp}</tag>`}`
+
+var str10 = `<tag attr=${exp}>${exp}</tag>`
+`${`<tag attr=${exp}>${exp}</tag>`}`
+current = current ? current[0] : null;
+
+try {
+   throw "myException" // 產生例外
+}
+catch (e) {
+// 用來處理任何例外的語句
+   logMyErrors(e) // 把例外物件傳給錯誤處理器
+}
+
+try {
+   writeMyFile(theData); // 這裡有可能拋出錯誤
+}catch(e){
+   handleError(e); // 如果我們得到錯誤，就處理他
+}finally {
+   closeMyFile(); // 永遠會關閉這項資源
+}
+
+let array: number[] = [1, 2, 3.14, 42];
+let theAnswer: number = array[3]; // 42
+let offTheEnd: number = array[100]; // No error
+
+let array2: Array<string> = ["an alternate", "syntax", "for arrays"];
+
+let p: Promise<*> = fetch('');
+
+function isNumber(x: any): x is number {
+    return typeof x === "number";
+}
+
+function isString(x: any): x is string {
+    return typeof x === "string";
+}
+
+function padLeft(value: string, padding: string | number) {
+    if (isNumber(padding)) {
+        return Array(padding + 1).join(" ") + value;
+    }
+    if (isString(padding)) {
+        return padding + value;
+    }
+    throw new Error(`Expected string or number, got '${padding}'.`);
+}
+
+var a:string = 'a';
+
+async function pullOne (id: string): Promise<*> {
+  // comment!!
+  return 1;
+}
+
+class test {
+  async pallZero (id: string): number {
+    return 0;
+  }
+  async pullZero (id: string): void {
+    return 0;
+  }
+  async pullOne (id: string): Promise<*> {
+    return 1;
+  }
+}
+
+var foo1 = bar ? bar : null;
+var foo2 = bar ? bar : void;
+
+foo1 = null;
+foo2 = void;
