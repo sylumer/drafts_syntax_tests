@@ -18,3 +18,15 @@ There are two lists in this example.
     [ ] Branch 1.2
         [ ] Here is some **Bold Text** in an entry
 [ ] Root 2 includes some *italic text* in the entry
+
+## List Gamma
+{ } State is null
+	[ ] Standard unchecked
+	[x] Standard checked
+	{ } State is null
+	{-} State is dashed
+	{x} State is crossed
+{-} State is dashed
+{x} State is crossed
+[ ] Standard unchecked
+[x] Standard checked
